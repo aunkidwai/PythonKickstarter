@@ -2,7 +2,7 @@
 
 A comprehensive scientific calculator application built with Python and PyQt5.
 
-![Calculator UI Screenshot](placeholder_for_screenshot.png)
+![Screenshot 2024-09-26 141744](https://github.com/user-attachments/assets/13c5c237-fca3-4dae-bf32-b4d796221c00)
 
 ## Features
 
@@ -111,4 +111,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/aunkidwai/PythonKickstarter/blob/main/LICENSE) file for details.
