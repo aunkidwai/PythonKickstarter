@@ -1,3 +1,0 @@
-tip_calculator.py
-requirements.txt
-README.md
