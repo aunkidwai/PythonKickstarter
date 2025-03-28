@@ -1,5 +1,3 @@
-To address the query "Project Simple Calculator Gradio UI," I'll create a project code-base structure for a simple calculator that uses Gradio to provide a user interface. The calculator will take two numbers and an operation (add, subtract, multiply, or divide) as input from the user and display the result. Below is a complete and self-contained solution, organized using a single Python file, which aligns with the simplicity of the project requirements.
-
 ### Project Code-Base Structure
 
 The project will consist of a single Python script with the following components:
